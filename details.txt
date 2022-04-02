@@ -1,0 +1,4 @@
+sem_4 ssg motion detector
+
+link:https://github.com/bhoomildayani182/Motion_Detection
+blog: https://motiondetectionsgp.blogspot.com/
