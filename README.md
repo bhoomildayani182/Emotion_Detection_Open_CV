@@ -37,8 +37,7 @@ Here you will find two code files, once is for images and other one is for video
 
 ## Youtube Explanation : https://www.youtube.com/watch?v=Gn83j6XfcbQ
 
-## Certificate of international conference : [Certify'em - Personal Copy of Gold Leaf Emblem Template (2).pdf](https://github.com/bhoomildayani182/Motion_Detection/files/9600976/Certify.em.-.Personal.Copy.of.Gold.Leaf.Emblem.Template.2.pdf)
-
+## This Project And Research Paper also select on INTERNATIONAL CONFERENCE ON INFORMATION SCIENCE, MANAGEMENT RESEARCH AND SOCIAL SCIENCES (ICISMRSS 2022) arrange by AJK Collage.
 
 ## Contributing
 
